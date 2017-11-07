@@ -32,7 +32,7 @@ header h3{
   font-size: 30px;
 }
 
-h3 a{
+header h3 a{
   color: red;
   text-decoration: underline;
 }
