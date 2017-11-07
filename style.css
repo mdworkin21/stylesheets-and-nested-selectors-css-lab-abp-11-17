@@ -2,6 +2,10 @@
   font-family: "Helvetica", "Arial", "san-serif";
 }
 
+header {
+  height: 100px;
+}
+
 body {
   padding: 0 30px 0 30px;
 }
