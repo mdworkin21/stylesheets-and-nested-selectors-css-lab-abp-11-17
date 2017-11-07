@@ -34,7 +34,7 @@ header h3{
 
 header h3 a{
   color: red;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 body {
