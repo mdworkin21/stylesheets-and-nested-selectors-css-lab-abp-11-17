@@ -33,7 +33,7 @@ header h3{
 }
 
 h3 a{
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 body {
